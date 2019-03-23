@@ -1,3 +1,7 @@
 Merges
 Are
+<<<<<<< HEAD
 Really Good
+=======
+Bad
+>>>>>>> 05b3e85cb3fb2f681e9091836002c6b6f29a2d34
